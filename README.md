@@ -1,4 +1,4 @@
-# pertemuan-14-proyek-akhir-masya-bantani-2225250113
+# pertemuan-14-proyek-akhir-Madiha-2225250119
 
 | **Keterangan** | **Data** |
 |---|---|
@@ -81,7 +81,7 @@ A010    Jaya            74.00  Belum Tuntas
 ## Struktur Folder
 
 ```text
-proyek-akhir-masya-bantani/
+proyek-akhir-Madiha/
 |-- README.md
 |-- proposal.md
 |-- .gitignore
