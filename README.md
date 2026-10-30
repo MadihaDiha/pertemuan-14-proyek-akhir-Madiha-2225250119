@@ -2,8 +2,8 @@
 
 | **Keterangan** | **Data** |
 |---|---|
-| **Nama** | Masya Bantani |
-| **NIM** | 2225250113 |
+| **Nama** | Madiha |
+| **NIM** | 2225250119 |
 | **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
