@@ -2,8 +2,8 @@
 
 | **Keterangan** | **Data** |
 |---|---|
-| **Nama** | Masya Bantani |
-| **NIM** | 2225250113|
+| **Nama** | Madiha |
+| **NIM** | 2225250119|
 | **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
@@ -146,7 +146,7 @@ Prinsip modular: bagian yang **membaca/menyimpan** (`data_io.py`), **memproses**
 ### Struktur Folder
 
 ```text
-proyek-akhir-fikri-yustiawan/
+proyek-akhir-Madiha/
 |-- README.md
 |-- proposal.md
 |-- .gitignore
@@ -213,11 +213,11 @@ Tugas ini individu, sehingga seluruh peran dipegang satu orang. Setiap tugas tet
 
 | Peran | Tanggung jawab utama | PIC | Bukti |
 |---|---|---|---|
-| Koordinator | Menjaga ruang lingkup dan integrasi | Fikri Yustiawan | `proposal.md`, riwayat commit |
-| Programmer Data I/O | Baca/tulis file dan validasi | Fikri Yustiawan | `src/data_io.py` |
-| Programmer Logika | Statistik dan fungsi matematika | Fikri Yustiawan | `src/analisis.py` |
-| Tester/QA | Menyusun dan menjalankan test case | Fikri Yustiawan | `tests/test_case.md`, `tests/test_program.py` |
-| Dokumentasi | README dan catatan penggunaan | Fikri Yustiawan | `README.md` |
+| Koordinator | Menjaga ruang lingkup dan integrasi | Madiha | `proposal.md`, riwayat commit |
+| Programmer Data I/O | Baca/tulis file dan validasi | Madiha | `src/data_io.py` |
+| Programmer Logika | Statistik dan fungsi matematika | Madiha | `src/analisis.py` |
+| Tester/QA | Menyusun dan menjalankan test case | Madiha | `tests/test_case.md`, `tests/test_program.py` |
+| Dokumentasi | README dan catatan penggunaan | Madiha | `README.md` |
 
 ## 12. Jadwal Milestone
 
@@ -230,7 +230,7 @@ Tugas ini individu, sehingga seluruh peran dipegang satu orang. Setiap tugas tet
 
 ## 13. Repository URL
 
-GitHub: `https://github.com/<username-github>/proyek-akhir-fikri-yustiawan`
+GitHub: `https://github.com/<username-github>/proyek-akhir-Madiha`
 *(ganti `<username-github>` dengan username GitHub setelah repositori dibuat)*
 
 ---
